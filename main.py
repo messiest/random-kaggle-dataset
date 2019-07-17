@@ -1,7 +1,6 @@
 import os
 import ntpath
 from time import sleep
-from itertools import count
 from zipfile import ZipFile
 
 import kaggle
